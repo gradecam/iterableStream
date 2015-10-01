@@ -1,0 +1,24 @@
+{
+  "name": "nextable-stream",
+  "version": "1.0.0",
+  "description": "Wrapper around a node.js stream (only confirmed 0.8 style) to allow iteration with coroutines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradecam/iterableStream.git"
+  },
+  "keywords": [
+    "co",
+    "generators",
+    "stream"
+  ],
+  "author": "Richard Bateman <rbateman@gradecam.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/gradecam/iterableStream/issues"
+  },
+  "homepage": "https://github.com/gradecam/iterableStream#readme"
+}
