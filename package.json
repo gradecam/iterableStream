@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gradecam/iterableStream.git"
+    "url": "git+https://github.com/gradecam/nextable-stream.git"
   },
   "keywords": [
     "co",
@@ -18,7 +18,7 @@
   "author": "Richard Bateman <rbateman@gradecam.com>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/gradecam/iterableStream/issues"
+    "url": "https://github.com/gradecam/nextable-stream/issues"
   },
-  "homepage": "https://github.com/gradecam/iterableStream#readme"
+  "homepage": "https://github.com/gradecam/nextable-stream#readme"
 }
