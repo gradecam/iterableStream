@@ -1,6 +1,6 @@
 {
   "name": "nextable-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper around a node.js stream (only confirmed 0.8 style) to allow iteration with coroutines",
   "main": "index.js",
   "scripts": {
